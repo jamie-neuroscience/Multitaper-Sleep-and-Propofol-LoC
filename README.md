@@ -16,13 +16,19 @@ This contains the code for the processing of the propofol data, sleep data, and 
 -------- DATA --------
 
 **Sleep_Spectrograms_db** - the baseline-normalised spectrograms for all participants in the sleep group, in decibels
+
 **Sleep_Spectrograms_linear** - the baseline-normalised spectrograms for all participants in the sleep group, in raw power (µV)
+
 **Sleep_Spectrograms_zscore** - the baseline-normalised spectrograms for all participants in the sleep group, as a z-score
+
 **Sleep_Spectrograms_group** - the group level spectrograms (median) in decibels, raw power, and z-scored
 
 **Propofol_Spectrograms_db** - the baseline-normalised spectrograms for all participants in the propofol group, in decibels
+
 **Propofol_Spectrograms_linear** - the baseline-normalised spectrograms for all participants in the propofol group, in raw power (µV)
+
 **Propofol_Spectrograms_zscore** - the baseline-normalised spectrograms for all participants in the propofol group, as a z-score
+
 **Propofol_Spectrograms_group** - the group level spectrograms (median) for the propofol group in decibels, raw power, and z-scored
 
 
