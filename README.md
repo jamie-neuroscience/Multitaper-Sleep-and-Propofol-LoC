@@ -2,6 +2,8 @@
 This is the code and processed data for the paper "Features of loss of consciousness: a multitaper spectral analysis of frontal cortical EEG during sleep and propofol" in review.
 This contains the code for the processing of the propofol data, sleep data, and the calculation of metrics, as well as the baseline-normalised spectrograms.
 
+<a href="https://doi.org/10.5281/zenodo.16919355"><img src="https://zenodo.org/badge/1037246636.svg" alt="DOI"></a>
+
 ------------------------ FILE EXPLANATIONS ------------------------ 
 
 -------- CODE --------
