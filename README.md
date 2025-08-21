@@ -1,5 +1,5 @@
 # Multitaper-Sleep-and-Propofol-LoC
-This is the code for the paper "Features of loss of consciousness: a multitaper spectral analysis of frontal cortical EEG during sleep and propofol" in review.
+This is the code and processed data for the paper "Features of loss of consciousness: a multitaper spectral analysis of frontal cortical EEG during sleep and propofol" in review.
 This contains the code for the processing of the propofol data, sleep data, and the calculation of metrics, as well as the baseline-normalised spectrograms.
 
 ------------------------ FILE EXPLANATIONS ------------------------ 
