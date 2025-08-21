@@ -8,6 +8,8 @@ This contains the code for the processing of the propofol data, sleep data, and 
 
 **propofolfiles.py** - the script for baseline-normalising the propofol data and computing the group-level spectrograms
 
+**sleepanalysis.py** - this is a copy of the code from the original paper which calculated the multitaper spectra data under propofol (sourced from https://github.com/johnabel/GABAergic_unconsciousness, doi.org/10.1371/journal.pone.0246165). It contains various functions such as the butterworth bandpass filter and multitaper spectra.
+
 **sleeppipeline.py** - the script for processing the sleep data (bandpass filter, epoching, linear detrend, multitaper spectra), baseline-normalisation, and computing the group-level spectrograms
 
 **metricanalysis.py** - the script for the computation of all metrics used (total and mean power, spectral slope, peak frequency, spectral parameters
